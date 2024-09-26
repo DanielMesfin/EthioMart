@@ -24,7 +24,7 @@ export default function Home() {
           My Profile
         </Link>
         <div className="bg-yellow-500 text-white p-4 rounded-lg text-center">
-          Today's Deals
+          Todays Deals
         </div>
       </div>
     </div>
